@@ -3,4 +3,6 @@ main()
 {
 printf("\n Please enter your name");
 
+printf("\n GTFO & STFU");
+
 }
